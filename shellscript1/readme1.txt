@@ -14,7 +14,7 @@
    $rocket-lift-off lunar-mission
 
 4)finally we tetsted the status 
-   $rocket-status unar-mission
+      $rocket-status unar-mission
 
 ************************************************
 
